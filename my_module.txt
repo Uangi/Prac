@@ -1,2 +1,12 @@
-int add(a, b);
-	return a + b;
+public static int Add(b) {
+
+int a = 1;
+int c = a + b;
+	return c;
+}
+
+public static void main(String[] args) {
+	int num = 5;
+	system.out.println(Add(num));	
+}
+hi
